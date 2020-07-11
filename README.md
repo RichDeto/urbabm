@@ -1,2 +1,3 @@
 # urbabm
-R package cor Urban Agents-Based Models
+R package for Urban Agents-Based Models
+
